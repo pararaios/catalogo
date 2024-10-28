@@ -1,4 +1,9 @@
 body{
     background-color: chartreuse;
     color:gold
+    margin: 0px;
+}
+header{
+  border-bottom: solid 2px rgb(53, 5, 180);
+
 }
