@@ -11,9 +11,10 @@ header{
 }
 
 section{
-  background-color: orange;
+  background-color: rgb(94, 255, 0);
   padding-top: 80px;
   padding-bottom: 80px;
-  
+  display: flex;
+  justify-content: center;
 
 }
